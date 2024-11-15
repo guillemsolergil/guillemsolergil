@@ -46,7 +46,7 @@ Me apasiona aprender nuevas tecnologías, y en el futuro me gustaría expandir m
 
 ## 📢 Contacto
 
-¡Estoy abierto a nuevas oportunidades, colaboraciones y aprendizajes! Si te interesa hablar sobre tecnología o discutir proyectos, no dudes en contactarme.
+¡Estoy abierto a nuevas oportunidades, colaboraciones y aprendizajes! Si te interesa hablar sobre tecnología o discutir proyectos, no dudes en contactarme. <br>
 Email: guillem.soler@gracia.lasalle.cat
 
 ---
